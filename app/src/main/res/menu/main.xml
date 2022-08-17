@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_it1"
+        android:title="查看公告" />
+
+    <item
+        android:id="@+id/main_it2"
+        android:title="邮箱联系" />
+
+    <item
+        android:id="@+id/main_it3"
+        android:title="作者企鹅" />
+
+
+</menu>
